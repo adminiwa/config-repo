@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: productos-service
+
+server:
+  port: 8081
+
+mensaje: "productos-service usando configuración remota"
